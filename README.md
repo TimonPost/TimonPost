@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h2 align="center"> Hi there 👋 </h1>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/timon-post-714a9482"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
