@@ -10,7 +10,7 @@
   
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📈 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -30,6 +30,21 @@
 | Scalability | <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> |
 | OS | <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 | Toolings | <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+
+
+# Top Projects
+
+|Name | DATE| Category | Description |
+| --- | --- | --- | --- |
+|[Laminar](https://github.com/amethyst/laminar/) | 2018-2020 | Game Networking | Designing and working on a semi reliable UDP protocol (laminar) for the amethyst engine. And working on the networking layer for the engine to fetch world data and set it to other clients. 
+|[Amethyst Netork](https://github.com/amethyst/amethyst/) | 2018-2020 | Game Networking | Simple networking layer for the amethyst engine|
+|[NetSync](https://github.com/entity-sync-rs) | 2020 | Game Networking | This library offers an abstraction for synchronizing ECS entities across the network. It can be used for higher level ECS-libraries. Such as legion-sync or specs. This project has been canceled after 8 months of work due to priorities shifts.
+|[Anasaizi](https://github.com/TimonPost/anasaizi) | 2021 | Vulkan Engine | Hobby, learning project. PBR-renderer, GLTF support, UI |
+|[UDP-DTLS](https://github.com/TimonPost/udp-dtls) | 2020 | Network Security | This library is an DTLS openssl abstraction that can be used with std::net::UdpSocket. In order to use this library, install openssl. 
+|[Crossterm](https://github.com/crossterm-rs/crossterm) | 2018-2020 | CLI | Crossterm is a pure-rust, terminal manipulation library that makes it possible to write cross-platform text-based interfaces (see features).
+|[Faultify](https://github.com/Faultify/Faultify) | 2021 | Test Framework | Faultify provides a quick simple way to realize dotnet mutation testing at the byte code level. It imitates the bad programmer by deliberately introducing errors. A test is assumed to fail after an introduced mutation, the test is likely to be error-prone if it instead succeeds. 
+
+
 
 
 
