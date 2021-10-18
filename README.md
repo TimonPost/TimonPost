@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://linkedin.com/in/timon-post-714a9482"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://timonpost.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>  
@@ -9,8 +7,6 @@
   
   
 </p>
-
-### 📈 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
