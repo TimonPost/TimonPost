@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/timon-post-714a9482"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://timonpost.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>  
 <a href="https://t.me/TimonPost"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+  <a href="https://www.notion.so/Timon-Post-975aab17cc5c420f9c3163b6573b256b"><img alt="Website" src="https://img.shields.io/badge/My%20website-%230077B5.svg?style=for-the-badge" /></a> 
   
   
 </p>
