@@ -149,14 +149,14 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Rust</span>
-                                <div class="bar" style="width: 49.65445435023102%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <span class="name">RenderScript</span>
+                                <div class="bar" style="width: 43.510971786833856%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 26.737814797943646%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <span class="name">Rust</span>
+                                <div class="bar" style="width: 32.86833855799373%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                         </div>
                     </section>
