@@ -145,13 +145,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 64.92225109700507%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">81%</span>
+                                <div class="bar" style="width: 70.98675067173167%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">89%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 14.822136071230776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 8.735291392569257%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                         </div>
                     </section>
